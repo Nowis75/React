@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb6fb1be-2a1c-4bad-9407-cea2f1880546" name="Default Changelist" comment="" />
+    <list default="true" id="eb6fb1be-2a1c-4bad-9407-cea2f1880546" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/React.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps-c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps-d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps-e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps-f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps-i.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps-k.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps-l.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps-m.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/apps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-api.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-e.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-i.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-k.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-l.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Hello_Word/index-m.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Conditional_Rendering/apps-n.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Conditional_Rendering/index-n.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_List_and_Keys/apps-a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_List_and_Keys/apps-b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_List_and_Keys/apps-c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_List_and_Keys/apps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_List_and_Keys/index-a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_List_and_Keys/index-b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_List_and_Keys/index-c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_List_and_Keys/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Lifting_State_up/apps-a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Lifting_State_up/apps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Lifting_State_up/index-a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Lifting_State_up/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactCrudApp/api/product/read.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactCrudApp/app/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactCrudApp/app/components/ProductsTable.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactCrudApp/app/components/ProductsTableRow.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactCrudApp/app/components/ReadProducts.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactCrudApp/app/components/TopActions.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactCrudApp/app/main.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactCrudApp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,29 +64,132 @@
     <session id="297337517">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="15" />
+          <entry key="JavaScript" value="17" />
+          <entry key="PHP" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="12" />
+          <entry key="HTML" value="119" />
+          <entry key="JavaScript" value="435" />
+          <entry key="PHP" value="246" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1618799266">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="7" />
+          <entry key="JavaScript" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="8" />
+          <entry key="JavaScript" value="47" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01_Hello_Word/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-m.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="705">
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08_List_and_Keys/apps-a.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08_List_and_Keys/apps-b.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08_List_and_Keys/apps-c.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-d.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-e.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_Lifting_State_up/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_Lifting_State_up/apps.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10_Lifting_State_up/apps-a.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_Lifting_State_up/index-a.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -45,6 +200,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -56,6 +213,52 @@
       <list>
         <option value="$PROJECT_DIR$/01/index.html" />
         <option value="$PROJECT_DIR$/01_Hello_Word/index.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-a.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-b.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps-c.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-c.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps-d.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-d.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-e.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps-e.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-f.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps-f.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-i.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps-i.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps-k.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-k.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-l.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps-l.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-m.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps-m.js" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/app/assets/css/app.css" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/app/components/read_products.component.js" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/app/main.component.js" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/app/components/topAction.component.js" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/app/components/productsTable.component.js" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/app/components/ProductsTableRow.component.js" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/api/product/read.php" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/app/components/ProductsTable.component.js" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/index.html" />
+        <option value="$PROJECT_DIR$/ReactCrudApp/app/components/ReadProducts.component.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/index-api.html" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/apps-api.js" />
+        <option value="$PROJECT_DIR$/01_Hello_Word/data.php" />
+        <option value="$PROJECT_DIR$/07_Contional_Rendering/apps-n.js" />
+        <option value="$PROJECT_DIR$/07_Contional_Rendering/index-n.html" />
+        <option value="$PROJECT_DIR$/07_Conditional_Rendering/apps-n.js" />
+        <option value="$PROJECT_DIR$/08_List_and_Keys/index.html" />
+        <option value="$PROJECT_DIR$/08_List_and_Keys/apps.js" />
+        <option value="$PROJECT_DIR$/08_List_and_Keys/index-a.html" />
+        <option value="$PROJECT_DIR$/08_List_and_Keys/apps-a.js" />
+        <option value="$PROJECT_DIR$/08_List_and_Keys/index-b.html" />
+        <option value="$PROJECT_DIR$/08_List_and_Keys/apps-b.js" />
+        <option value="$PROJECT_DIR$/08_List_and_Keys/index-c.html" />
+        <option value="$PROJECT_DIR$/08_List_and_Keys/apps-c.js" />
+        <option value="$PROJECT_DIR$/10_Lifting_State_up/apps.js" />
+        <option value="$PROJECT_DIR$/10_Lifting_State_up/index-a.html" />
+        <option value="$PROJECT_DIR$/10_Lifting_State_up/apps-a.js" />
       </list>
     </option>
   </component>
@@ -72,10 +275,10 @@
     </packageJsonPaths>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.5" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1177" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -99,7 +302,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -109,13 +314,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React" type="b2602c69:ProjectViewProjectNode" />
               <item name="React" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React" type="b2602c69:ProjectViewProjectNode" />
               <item name="React" type="462c0819:PsiDirectoryNode" />
               <item name="01_Hello_Word" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
+              <item name="08_List_and_Keys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
+              <item name="10_Lifting_State_up" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,12 +343,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="options.lastSelected" value="Errors" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10_Lifting_State_up" />
+      <recent name="$PROJECT_DIR$/08_List_and_Keys" />
+      <recent name="$PROJECT_DIR$/07_Contional_Rendering" />
+      <recent name="$PROJECT_DIR$/01_Hello_Word" />
+      <recent name="$PROJECT_DIR$/ReactCrudApp/app/components" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,12 +372,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index-b.html">
+    <configuration name="index-a.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/react/01_Hello_Word/index-a.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index-b.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/react/01_Hello_Word/index-b.html">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/react/01_Hello_Word/index.html">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index-a.html" />
+      <item itemvalue="JavaScript Debug.index-b.html" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index-b.html" />
+        <item itemvalue="JavaScript Debug.index-a.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -167,12 +405,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549722055973</updated>
-      <workItem from="1549722057405" duration="2522000" />
+      <workItem from="1549722057405" duration="31234000" />
+      <workItem from="1550173985228" duration="6408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2522000" />
+    <option name="totallyTimeSpent" value="37642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
@@ -180,26 +419,26 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" weight="0.32962668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24570313" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32948422" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32980332" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Application Servers" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.39938557" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" weight="0.32948422" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Changes" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32948422" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50039715" side_tool="true" weight="0.39938557" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.49960285" weight="0.39938557" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32948422" />
       <window_info anchor="right" id="Database" order="0" sideWeight="0.49730563" weight="0.20929308" />
       <window_info anchor="right" id="Remote Host" order="1" weight="0.32962668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" x="1016" y="82" width="527" height="1299" id="Project" order="5" sideWeight="0.50269437" visible="true" weight="0.1223193" />
+      <window_info active="true" anchor="right" content_ui="combo" x="1016" y="82" width="527" height="1299" id="Project" order="5" sideWeight="0.50269437" visible="true" weight="0.12311358" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,17 +448,318 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01/index.html">
+    <entry file="file://$PROJECT_DIR$/01/index.html" />
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index.html">
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-b.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" lean-forward="true" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-c.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-c.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-d.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-e.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-f.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-f.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-i.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-i.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-k.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-k.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-l.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-l.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactCrudApp/app/assets/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-m.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactCrudApp/api/product/read.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/index-api.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactCrudApp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactCrudApp/app/main.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactCrudApp/app/components/TopActions.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactCrudApp/app/components/ProductsTableRow.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactCrudApp/app/components/ProductsTable.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactCrudApp/app/components/ReadProducts.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="92" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="92" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Conditional_Rendering/index-n.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Conditional_Rendering/apps-n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="2" lean-forward="true" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_List_and_Keys/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_List_and_Keys/apps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_List_and_Keys/index-a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_List_and_Keys/index-b.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_List_and_Keys/index-c.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Lifting_State_up/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_List_and_Keys/apps-a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_List_and_Keys/apps-b.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_List_and_Keys/apps-c.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-e.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Hello_Word/apps-m.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Lifting_State_up/apps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Lifting_State_up/index-a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Lifting_State_up/apps-a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
         </state>
       </provider>
     </entry>

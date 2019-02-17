@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>React Crud App</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+
+    <!-- Custom CSS -->
+    <link href="app/assets/css/app.css" rel="stylesheet" media="screen" />
+
+</head>
+<body>
+<!-- container -->
+<div class="container">
+
+    <div class="page-header">
+        <h1>Loading...</h1>
+    </div>
+
+    <!-- placeholder for rendering react components -->
+    <div id='content'></div>
+
+</div>
+<!-- /container -->
+<script src='//unpkg.com/react/umd/react.development.js'></script>
+<script src='//unpkg.com/react-dom/umd/react-dom.development.js'></script>
+<script src="//unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+
+<script type="text/babel" src="app/components/ProductsTableRow.component.js"></script>
+<script type="text/babel" src="app/components/ProductsTable.component.js"></script>
+<script type="text/babel" src="app/components/TopActions.component.js"></script>
+<script type="text/babel" src="app/components/ReadProducts.component.js"></script>
+<script src="app/main.component.js" type="text/babel"></script>
+
+<!-- jQuery library required by bootsrap js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</body>
+</html>
