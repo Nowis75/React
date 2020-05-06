@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu> 
+   <food> 
+       <name>Belgické vafle</name> 
+       <price>120Kč</price> 
+       <description>Dvě famózní belgické vafle s javorovým sirupem</description> 
+       <calories>650</calories> 
+   </food> 
+   <food> 
+       <name>Jahodové belgické vafle</name> 
+       <price>150Kč</price> 
+       <description>Lehké belgické vafle s jahodovou marmeládou.</description> 
+       <calories>900</calories> 
+   </food> 
+   <food> 
+       <name>Borůvkové belgické vafle</name> 
+       <price>160Kč</price> 
+       <description>Lehké belgické vafle s borůvkvou marmeládou.</description> 
+       <calories>900</calories> 
+   </food> 
+   <food> 
+       <name>Francouzský toust</name> 
+       <price>45Kč</price> 
+       <description>Opečený chleba s máslem a šunkou.</description> 
+       <calories>600</calories> 
+   </food> 
+   <food> 
+       <name>Domácí snídaně</name> 
+       <price>120Kč</price> 
+       <description>Dvě vejce do skla, paprika, marmeláda a toust.</description> 
+       <calories>950</calories> 
+   </food> 
+</breakfast_menu>
